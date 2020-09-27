@@ -1,4 +1,4 @@
-# **Agenda**
+# **Agenda de contatos**
 ## Para usar bastar ter o **Python** instalado.
 ---
 ## Uso
